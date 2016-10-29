@@ -1,0 +1,22 @@
+{
+  "name": "my-project",
+  "description": "",
+  "main": "",
+  "authors": [
+    "Peter Blazejewicz"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/peterblazejewicz/vaadin-angular2-integration-steps",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "src/assets/bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paper-elements": "^1.0.7",
+    "vaadin-combo-box": "^1.1.5"
+  }
+}
